@@ -1,3 +1,5 @@
+before_install: cd project
+
 language: cpp
 compiler:
   - clang
